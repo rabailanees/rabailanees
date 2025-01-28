@@ -13,8 +13,6 @@
 - ❤ Passionate about contributing to open-source projects.
 - 🌱 Always learning and improving with every new challenge.
 
-<hr style="visibility: hidden;" />
-
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 <picture>
