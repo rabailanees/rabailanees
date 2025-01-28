@@ -1,5 +1,5 @@
 <!--Night Owl Image-->
-<div style="border: none; margin-top: 20px;">
+<div style="border: none; margin-top: 30px;">
   <img align="right" width="40%" style="margin: 0;" src="https://cdn3d.iconscout.com/3d/premium/thumb/cute-robot-reading-book-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--read-bot-little-metal-pack-science-technology-illustrations-4721944.png">
 </div>
 
