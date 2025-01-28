@@ -3,11 +3,10 @@
   <img align="right" width="40%" src="https://cdn3d.iconscout.com/3d/premium/thumb/cute-robot-reading-book-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--read-bot-little-metal-pack-science-technology-illustrations-4721944.png">
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds space above the robot image -->
-
 <!--Header-->
 # <img src="assets\smile.png" width="30"/> Hi, I'm Rabail!
 *Explorer of AI, ML, and Data-Driven Innovation*
+
 
 <!--Intro-->               
 <p align="left">I am a Data Scientist passionate about AI/ML, skilled in building personalized chatbots, data scraping, and implementing DSA algorithms. </p>
